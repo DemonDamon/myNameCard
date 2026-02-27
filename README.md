@@ -3,9 +3,9 @@
 <!-- Dynamic Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=230&section=header&text=Hi%20there%2C%20I'm%20Damon%20👋&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agentic%20AI%20Builder%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
-<!-- Typing SVG -->
+<!-- Typing SVG — single-line cycling, no overflow -->
 <a href="https://github.com/DemonDamon">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%94%AD+Building+the+future+with+Agentic+AI;%F0%9F%A7%A0+RAG+%7C+AI+Agents+%7C+LLM+Research;%F0%9F%9A%80+Turning+ideas+into+intelligent+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%94%AD+Building+the+future+with+Agentic+AI;%F0%9F%A7%A0+World+Models+%C2%B7+Embodied+Intelligence+%C2%B7+RAG;%F0%9F%A4%96+From+LLM+to+Autonomous+Agent+Systems;%F0%9F%9A%80+Turning+ideas+into+intelligent+systems" alt="Typing SVG" />
 </a>
 
 </div>
@@ -15,20 +15,30 @@
 
 ```yaml
 name: Damon Li
+located_in: Earth → Cloud → GPU Cluster
 role: AI Engineer & Researcher
-focus: Agentic AI | RAG Systems | LLM Applications
-currently_building: Next-generation AI Agent frameworks
-passion: Making AI more autonomous, reliable, and useful
+mission: "Teach machines to think, act, and explore the world"
+interests:
+  - Agentic AI & Multi-Agent Systems
+  - World Models & Embodied Intelligence
+  - RAG & Knowledge-Augmented Reasoning
+  - Open-Source Robotics (OpenClaw)
+currently:
+  building: Autonomous agent frameworks that reason, plan & use tools
+  exploring: World models that let AI understand physics & causality
+  contributing: OpenClaw — open-source embodied manipulation
+philosophy: "The next frontier isn't just smarter models — it's AI that acts in the real world."
 ```
 
-<img align="right" width="320" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+<img align="right" width="300" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 
-- 🔭 I'm currently working on **Agentic AI** — building systems where AI agents reason, plan, and act autonomously
-- 🧠 Deep diving into **RAG** (Retrieval-Augmented Generation) and **Multi-Agent** architectures
-- 📝 I regularly write about **LLM research**, prompt engineering, and AI system design
-- 🌱 Exploring the frontiers of **Tool-Use**, **Planning**, and **Memory** for AI agents
-- 💬 Ask me about **LangChain, LlamaIndex, Agent Frameworks, Vector Databases**
-- ⚡ Fun fact: I believe the best code is written by humans & AI **together**
+- 🔭 Building **Agentic AI** systems — agents that reason, plan, use tools, and collaborate autonomously
+- 🌍 Exploring **World Models** — teaching AI to simulate, predict, and understand the physical world
+- 🦾 Passionate about **Embodied Intelligence** — bridging the gap between language models and real-world action
+- 🐾 Contributing to **[OpenClaw](https://github.com/OpenClaw)** — open-source dexterous manipulation for robotics
+- 🧠 Deep diving into **RAG** & **Multi-Agent** architectures for knowledge-intensive reasoning
+- 📝 Writing about **LLM research**, agent design patterns, and the path to AGI
+- ⚡ *"The best AI doesn't just answer questions — it goes out and solves problems."*
 
 <br clear="both" />
 
@@ -133,11 +143,6 @@ passion: Making AI more autonomous, reliable, and useful
 <!-- Activity Graph -->
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DemonDamon&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DemonDamon/DemonDamon/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <!-- Profile Views -->
