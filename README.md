@@ -32,50 +32,18 @@ philosophy: "The next frontier isn't just smarter models — it's AI that acts i
 
 <img align="right" width="300" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 
-- 🔭 Building **Agentic AI** systems — agents that reason, plan, use tools, and collaborate autonomously
-- 🌍 Exploring **World Models** — teaching AI to simulate, predict, and understand the physical world
-- 🦾 Passionate about **Embodied Intelligence** — bridging the gap between language models and real-world action
-- 🐾 Contributing to **[OpenClaw](https://github.com/openclaw/openclaw)** — open-source, privacy-first personal AI assistant running locally
-- 🧠 Deep diving into **RAG** & **Multi-Agent** architectures for knowledge-intensive reasoning
-- 📝 Writing about **LLM research**, agent design patterns, and the path to AGI
+- Building **Agentic AI** systems — agents that reason, plan, use tools, and collaborate autonomously
+- Exploring **World Models** — teaching AI to simulate, predict, and understand the physical world
+- Passionate about **Embodied Intelligence** — bridging the gap between language models and real-world action
+- Exploring **[OpenClaw](https://github.com/openclaw/openclaw)** — open-source, privacy-first personal AI assistant running locally
+- Deep diving into **RAG** & **Multi-Agent** architectures for knowledge-intensive reasoning
+- Writing about **LLM research**, agent design patterns, and the path to AGI
 - ⚡ *"The best AI doesn't just answer questions — it goes out and solves problems."*
 
 <br clear="both" />
 
----
-
-<!-- Tech Stack -->
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-#### 🤖 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-#### 🗄️ Data & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-#### 🌐 Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
 <!-- GitHub Stats -->
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DemonDamon&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
@@ -84,45 +52,13 @@ philosophy: "The next frontier isn't just smarter models — it's AI that acts i
 
 <div align="center">
   <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DemonDamon&theme=github_dark" alt="Stats" />
-  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DemonDamon&theme=github_dark&utcOffset=8" alt="Productive Time" />
   <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DemonDamon&theme=github_dark" alt="Top Languages" />
 </div>
 
----
-
-<!-- Connect -->
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/DemonDamon" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;
-<a href="mailto:bingzhenli@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
-</a>
-
-</div>
-
----
 <!-- WeChat Section -->
 ## 📲 WeChat Official Account
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="500">
-
-### 🧠 关注我的公众号
-
-深入探讨 **RAG**、**AI Agents**、**LLM 前沿研究**
-
-每周更新高质量技术文章
-
-👇 扫码关注 👇
-
 <br/>
 
 <img width="200" src="https://github.com/DemonDamon/DemonDamon/assets/20499644/077f846c-5d03-4bcb-a459-e070d355438d" alt="WeChat QR Code" />
@@ -136,22 +72,5 @@ philosophy: "The next frontier isn't just smarter models — it's AI that acts i
 </table>
 
 </div>
-
----
-
-<!-- Activity Graph -->
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DemonDamon&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-</div>
-
-<!-- Profile Views -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DemonDamon&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DemonDamon?style=for-the-badge&color=1f6feb&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/DemonDamon?style=for-the-badge&color=1f6feb&label=TOTAL+STARS" alt="Stars" />
-</div>
-
-<br/>
-
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" />
