@@ -22,11 +22,11 @@ interests:
   - Agentic AI & Multi-Agent Systems
   - World Models & Embodied Intelligence
   - RAG & Knowledge-Augmented Reasoning
-  - Open-Source Robotics (OpenClaw)
+  - Open-Source AI Assistants (OpenClaw)
 currently:
   building: Autonomous agent frameworks that reason, plan & use tools
   exploring: World models that let AI understand physics & causality
-  contributing: OpenClaw — open-source embodied manipulation
+  contributing: OpenClaw — privacy-first, self-hosted AI assistant
 philosophy: "The next frontier isn't just smarter models — it's AI that acts in the real world."
 ```
 
@@ -35,7 +35,7 @@ philosophy: "The next frontier isn't just smarter models — it's AI that acts i
 - 🔭 Building **Agentic AI** systems — agents that reason, plan, use tools, and collaborate autonomously
 - 🌍 Exploring **World Models** — teaching AI to simulate, predict, and understand the physical world
 - 🦾 Passionate about **Embodied Intelligence** — bridging the gap between language models and real-world action
-- 🐾 Contributing to **[OpenClaw](https://github.com/OpenClaw)** — open-source dexterous manipulation for robotics
+- 🐾 Contributing to **[OpenClaw](https://github.com/openclaw/openclaw)** — open-source, privacy-first personal AI assistant running locally
 - 🧠 Deep diving into **RAG** & **Multi-Agent** architectures for knowledge-intensive reasoning
 - 📝 Writing about **LLM research**, agent design patterns, and the path to AGI
 - ⚡ *"The best AI doesn't just answer questions — it goes out and solves problems."*
