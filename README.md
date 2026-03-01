@@ -51,7 +51,8 @@ philosophy: "The next frontier is not only smarter models, but agents that can a
 
 <div align="center">
   <img width="36%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DemonDamon&theme=github_dark" alt="Stats" />
-  <img width="36%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DemonDamon&theme=github_dark" alt="Top Languages" />
+  <!-- 使用自生成卡片，TypeScript 为黄色以与 Python 区分 -->
+  <img width="36%" src="https://raw.githubusercontent.com/DemonDamon/myNameCard/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages" />
   <img height="81" src="https://github.com/DemonDamon/DemonDamon/assets/20499644/077f846c-5d03-4bcb-a459-e070d355438d" alt="WeChat QR Code" />
 </div>
 

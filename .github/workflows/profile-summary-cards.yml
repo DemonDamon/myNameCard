@@ -1,0 +1,43 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  create:
+  push:
+  schedule:
+    - cron: "* */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          AUTO_PUSH: false
+
+      # 将 TypeScript 颜色从蓝色 #3178c6 改为黄色 #F7DF1E，与 Python 区分
+      - name: Fix TypeScript color in language chart
+        run: |
+          for f in profile-summary-card-output/*/2-most-commit-language.svg; do
+            if [ -f "$f" ]; then
+              sed -i 's/#3178[cC]6/#F7DF1E/g' "$f"
+              echo "Updated: $f"
+            fi
+          done
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add profile-summary-card-output/
+          git diff --staged --quiet || git commit -m "chore: update profile cards (TS color fix)"
+          git push
